@@ -1,0 +1,8 @@
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.AssemblyReference.cache
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+C:\DotNet\Assignment-18\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb
